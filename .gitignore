@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtualenv
+venv/
+.env/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Generated reports
+*.json
+
+# Temporary downloads
+charset-storage/
+tmp/
+temp/
+
+# Python cache
+.pytest_cache/
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# OCI
+*.pem
+*.key
